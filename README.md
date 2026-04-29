@@ -55,4 +55,6 @@ GDG-CU-DS-AI-ML/
 
 ---
 
+> **New to Git & GitHub?** To learn Git, GitHub, and GitHub Desktop, check out this tutorial: [Git & GitHub Full Course](https://youtu.be/8Dd7KRpKeaE?si=S5lIS7zr-f221tp8) 🎓
+
 > **Questions?** Open an issue or reach out to your track leads. Good luck, and may your code run on the first try! 🐍
