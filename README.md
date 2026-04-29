@@ -30,7 +30,7 @@ Follow these steps for **every** mission to submit your work for grading:
    ```bash
    git checkout -b mission-01-submission
    ```
-4. **Complete the code** inside the relevant mission folder (e.g. `mission_01/`). Edit `starter_code.py` to implement the full solution.
+4. **Write your solution** inside the relevant mission folder (e.g. `mission_01/`). Read the mission `README.md` for the requirements, then create a new file called `main.py` and write your solution there.
 5. **Push** your branch to your fork:
    ```bash
    git add .
@@ -48,8 +48,9 @@ GDG-CU-DS-AI-ML/
 ├── README.md               ← You are here
 ├── .gitignore
 ├── mission_01/
-│   ├── README.md           ← Mission brief & objectives
-│   └── starter_code.py     ← Your starting point
+│   ├── README.md           ← Mission brief & requirements
+│   ├── starter_code.py     ← Points you to create main.py
+│   └── main.py             ← Create this file with your solution
 └── ...                     ← More missions coming soon
 ```
 

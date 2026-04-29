@@ -21,7 +21,7 @@ By completing this mission you will practise:
 
 ## 📝 Requirements
 
-Your completed script (`starter_code.py`) **must**:
+Your completed script (`main.py`) **must**:
 
 1. **Prompt for a budget**  
    Ask the user to enter their total budget and store it as a `float`.
@@ -71,7 +71,8 @@ Budget remaining: $-5.00
 | File | Description |
 |------|-------------|
 | `README.md` | This file — mission brief and requirements |
-| `starter_code.py` | Your starting point — fill in the logic! |
+| `starter_code.py` | Points you to create your own `main.py` |
+| `main.py` | **Create this file** — write your solution here |
 
 ---
 
@@ -82,6 +83,6 @@ Budget remaining: $-5.00
 - [ ] It prints the total after every entry.
 - [ ] It warns the user when they exceed their budget.
 - [ ] It prints a final summary when the user types `quit`.
-- [ ] I have pushed my code to a branch named `mission-01-submission` and opened a Pull Request.
+- [ ] I have pushed my code (`main.py`) to a branch named `mission-01-submission` and opened a Pull Request.
 
 Good luck! 🚀
