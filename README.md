@@ -23,7 +23,7 @@ Follow these steps for **every** mission to submit your work for grading:
 1. **Fork** this repository by clicking the *Fork* button at the top-right of this page.
 2. **Clone** your fork to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/GDG-CU-DS-AI-ML.git
+   git clone https://github.com/Calibaba276/GDG-CU-DS-AI-ML.git
    cd GDG-CU-DS-AI-ML
    ```
 3. **Create a branch** named after the mission you are working on:
