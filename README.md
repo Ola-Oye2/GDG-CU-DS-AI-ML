@@ -49,7 +49,6 @@ GDG-CU-DS-AI-ML/
 ├── .gitignore
 ├── mission_01/
 │   ├── README.md           ← Mission brief & requirements
-│   ├── starter_code.py     ← Points you to create main.py
 │   └── main.py             ← Create this file with your solution
 └── ...                     ← More missions coming soon
 ```

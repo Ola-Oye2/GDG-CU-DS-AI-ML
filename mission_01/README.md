@@ -27,7 +27,7 @@ Your completed script (`main.py`) **must**:
    Ask the user to enter their total budget and store it as a `float`.
 
 2. **Enter an expense loop**  
-   Use a `while` loop that continues until the user types `quit`. The starter code already handles case-insensitive matching via `.lower()`.
+   Use a `while` loop that continues until the user types `quit`. Handle case-insensitive matching by calling `.lower()` on the input.
 
 3. **Accept expense amounts**  
    Inside the loop, prompt the user to enter an expense amount (or `quit` to stop).  
@@ -71,7 +71,6 @@ Budget remaining: $-5.00
 | File | Description |
 |------|-------------|
 | `README.md` | This file — mission brief and requirements |
-| `starter_code.py` | Points you to create your own `main.py` |
 | `main.py` | **Create this file** — write your solution here |
 
 ---
