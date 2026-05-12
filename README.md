@@ -11,7 +11,7 @@ Each week you will receive a **Mission**: a self-contained coding challenge that
 | Week | Mission | Status |
 |------|---------|--------|
 | Week 01 | [Mission 01 — Smart Budget & Expense Tracker](./mission_01/README.md) | ✅ Active |
-| Week 02 | Mission 02 — Coming Soon | 🔒 Coming Soon |
+| Week 02 | [Mission 02 — Data Cleaning & Insight Report](./mission_02/README.md) | ✅ Active |
 | Week 03 | Mission 03 — Coming Soon | 🔒 Coming Soon |
 
 ---
@@ -28,16 +28,16 @@ Follow these steps for **every** mission to submit your work for grading:
    ```
 3. **Create a branch** named after the mission you are working on:
    ```bash
-   git checkout -b mission-01-submission
+   git checkout -b mission-02-submission
    ```
-4. **Write your solution** inside the relevant mission folder (e.g. `mission_01/`). Read the mission `README.md` for the requirements, then create a new file called `main.py` and write your solution there.
+4. **Write your solution** inside the relevant mission folder (e.g. `mission_02/`). Read the mission `README.md` for the requirements, then create a new file called `main.py` and write your solution there.
 5. **Push** your branch to your fork:
    ```bash
    git add .
-   git commit -m "Complete Mission 01 submission"
-   git push origin mission-01-submission
+   git commit -m "Complete Mission 02 submission"
+   git push origin mission-02-submission
    ```
-6. **Open a Pull Request** from your fork's `mission-01-submission` branch back to the `main` branch of this repository for grading.
+6. **Open a Pull Request** from your fork's `mission-02-submission` branch back to the `main` branch of this repository for grading.
 
 ---
 
@@ -48,6 +48,9 @@ GDG-CU-DS-AI-ML/
 ├── README.md               ← You are here
 ├── .gitignore
 ├── mission_01/
+│   ├── README.md           ← Mission brief & requirements
+│   └── main.py             ← Create this file with your solution
+├── mission_02/
 │   ├── README.md           ← Mission brief & requirements
 │   └── main.py             ← Create this file with your solution
 └── ...                     ← More missions coming soon
